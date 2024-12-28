@@ -24,6 +24,16 @@
 - Add an impulse amount
 - Check "Vel Change" if you want to ignore object mass
 
+### 2.8 Blueprint Classes and Instances
+
+- Create object into a Class
+  - Select object
+  - Details > converts this actor into a reusable blueprint Class
+  - name the class
+  - Naming convention is "BP_Name"
+
+### 2.9 Spawning Actors
+
 
 
 
