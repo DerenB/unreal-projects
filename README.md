@@ -1,6 +1,6 @@
 # Unreal Projects
 
-Various projects using Unreal Engine
+Various tutorial projects using Unreal Engine
 
 # Sources
 
